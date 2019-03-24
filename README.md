@@ -8,7 +8,7 @@ API 文档
 Go Walker.
 
 示例
-请查看 conf.ini 文件作为使用示例。
+请查看 [conf.ini](conf/config.ini) 文件作为使用示例。
 
 用例
 函数 LoadConfigFile 加载一个或多个文件，然后返回一个类型为 ConfigFile 的变量。
