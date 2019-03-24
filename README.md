@@ -1,0 +1,2 @@
+# goconfig
+goconfig
