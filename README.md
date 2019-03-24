@@ -1,14 +1,15 @@
 # goconfig
 安装
 go get github.com/Unknwon/goconfig
-或
 
+或
 gopm get github.com/Unknwon/goconfig
+
 API 文档
-Go Walker.
+[Go Walker](http://gowalker.org/github.com/Unknwon/goconfig).
 
 示例
-请查看 [conf.ini](conf/config.ini) 文件作为使用示例。
+请查看 [config.ini](conf/config.ini) 文件作为使用示例。
 
 用例
 函数 LoadConfigFile 加载一个或多个文件，然后返回一个类型为 ConfigFile 的变量。
